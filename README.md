@@ -1,6 +1,6 @@
 # Oi, eu sou a Ingrid Vanzeli
 
-Analista de QA, atuando com testes manuais, automação de testes Web e testes de API. Antes de migrar para qualidade, passei pelo suporte técnico, o que me deu uma base sólida em investigação de causa raiz, análise de logs e SQL — algo que uso até hoje no dia a dia de testes. Além, é claro, de desenvolver um pensamento crítico e entender como um pequeno bug pode impactar no dia a dia dos usuários.
+Analista de QA, atuando com testes manuais, automação de testes Web e testes de API. Entrei como analista de sistemas, atuando na prática com suporte técnico, e migrei para qualidade em 2024 — o que me deu uma base sólida em investigação de causa raiz, análise de logs e SQL, algo que uso até hoje no dia a dia de testes. Além, é claro, de desenvolver um pensamento crítico e entender como um pequeno bug pode impactar no dia a dia dos usuários.
 
 Aqui no GitHub compartilho projetos de estudo e prática em automação, aplicando o que aprendo no meu trabalho e além dele.
 
